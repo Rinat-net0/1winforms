@@ -1,0 +1,12 @@
+C:\Users\And\source\repos\MindTest\MindTest\obj\Debug\MindTest.csprojAssemblyReference.cache
+C:\Users\And\source\repos\MindTest\MindTest\obj\Debug\MindTest.Form1.resources
+C:\Users\And\source\repos\MindTest\MindTest\obj\Debug\MindTest.Properties.Resources.resources
+C:\Users\And\source\repos\MindTest\MindTest\obj\Debug\MindTest.csproj.GenerateResource.cache
+C:\Users\And\source\repos\MindTest\MindTest\obj\Debug\MindTest.csproj.CoreCompileInputs.cache
+C:\Users\And\source\repos\MindTest\MindTest\bin\Debug\MindTest.exe.config
+C:\Users\And\source\repos\MindTest\MindTest\bin\Debug\MindTest.exe
+C:\Users\And\source\repos\MindTest\MindTest\bin\Debug\MindTest.pdb
+C:\Users\And\source\repos\MindTest\MindTest\obj\Debug\MindTest.Form2.resources
+C:\Users\And\source\repos\MindTest\MindTest\obj\Debug\MindTest.exe
+C:\Users\And\source\repos\MindTest\MindTest\obj\Debug\MindTest.pdb
+C:\Users\And\source\repos\MindTest\MindTest\obj\Debug\MindTest.Form3.resources
